@@ -1,4 +1,4 @@
-# Initial page
+# Kubernetes 架构
 
 ## Getting Super Powers
 
